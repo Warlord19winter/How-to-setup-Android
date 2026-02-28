@@ -25,3 +25,7 @@ The go to the Bottom of Developer Settings
 Enable "disable child process restrictions"
 
 This Setting Allows Termux to Run in the Background
+
+click this link to get back to the hub
+
+https://github.com/Warlord19winter/The-Hub-For-Termux-Native-Desktop-Evironment
